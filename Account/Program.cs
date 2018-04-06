@@ -15,7 +15,7 @@ namespace Account
             MainProgram m = new MainProgram();
             m.DoQuery();
             
-            
+            // from github test
             //Console.Read();
         }
     }
