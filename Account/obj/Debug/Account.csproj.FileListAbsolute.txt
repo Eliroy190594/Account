@@ -1,0 +1,9 @@
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\bin\Debug\Account.exe.config
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\bin\Debug\Account.exe
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\bin\Debug\Account.pdb
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\bin\Debug\Dapper.dll
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\bin\Debug\Dapper.xml
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\obj\Debug\Account.csprojResolveAssemblyReference.cache
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\obj\Debug\Account.csproj.CoreCompileInputs.cache
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\obj\Debug\Account.exe
+c:\users\w2255\documents\visual studio 2017\Projects\Account\Account\obj\Debug\Account.pdb
